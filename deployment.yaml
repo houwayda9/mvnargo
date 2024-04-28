@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: mvn-app
-          image: houwayda/devops_esprit:36
+          image: houwayda/devops_esprit:37
           imagePullPolicy: Always
           ports:
             - containerPort: 80
